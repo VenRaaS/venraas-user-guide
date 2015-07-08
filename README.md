@@ -1,1 +1,1 @@
-User(Customer) doc place here
+User (Customer) guide doc is placed here
