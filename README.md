@@ -1,3 +1,1 @@
-User (Customer) guide doc is placed here.
-
-Please check [WIKI](https://github.com/VenRaaS/venraas-user-guide/wiki) for more information
+Please check [WIKI](https://github.com/VenRaaS/venraas-user-guide/wiki) for user (customer) guide information
